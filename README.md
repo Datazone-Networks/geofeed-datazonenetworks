@@ -12,3 +12,4 @@ This repository hosts the [GeoFeed](https://datatracker.ietf.org/doc/html/rfc880
 This repository contains the public GeoFeed file used to assist geolocation providers (like MaxMind, IP2Location, DB-IP, etc.) and RIRs.
 
 **Raw GeoFeed File URL:**
+https://raw.githubusercontent.com/Datazone-Networks/geofeed-datazonenetworks/main/Datazone%20Networks%20LLC-geofeed.csv
